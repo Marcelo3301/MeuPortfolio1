@@ -46,16 +46,17 @@ figure img {
     left: 530px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
-.nome {
+.title {
     color: #757575;
     position: relative;
     left: 120px;
     top: 200px;
     font-size: 25px;
+    text-shadow: 1px 1px 1.5px rgba(0, 0, 0, 0.5);
 } 
-.nome h1 {
+.title h1 {
     padding-bottom: 40px;
 }
-.nome h2 {
+.title h2 {
     margin-left:  40px;
 }
